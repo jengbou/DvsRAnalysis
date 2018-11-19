@@ -15,15 +15,22 @@ python compareNewSource_NISTset6.py -t 99DaysAftIrr_p20181116 >& logs/compareNew
 ## Fitting cosmic ray measurement
 ### Langaus fit
 root [0] .L Plotter/langaus.C+
+
 root [1] PyLandGaus *fobj = new PyLandGaus()
+
 root [2] double fitRng[] = {10,-2,28}     ## note: nbins = int(10*(28-(-2)))=300 in this e.g.
+
 root [3] double fitRngPed[] = {20,-1.5,-0.1} ## note: nbins = 20 in this e.g.; this line is optional; if not specified the default fit range=[-1.5,-0.15] and nbin=10
+
 root [4] fobj->langaus("root/cosmic/EJ200_1X_6_CosmicStand20170307_CH2_NonMirr_UnIrrFiber_HV70p89_Tcomp25p7C_20170823.root",fitRng,true,fitRngPed)
+
 root [l] double fitRngPed10[] = {20,-0.8,-0.4} ## note: another example range for fitting pedestal
 
 
 root [m] fobj->langaus("root/Na22/EJ260_2p1s_N4_Na22Source20170413_CH2FF_Tcomp25p5C_20170413.root",fitRng,true)
+
 root [n] fobj->langaus("root/cosmic/EJ200_1X_6_CosmicStand20170307_CH2_NonMirr_UnIrrFiber_HV70p89_Tcomp25p7C_20170823.root",fitRng,true)
+
 root [o] fobj->langaus("root/cosmic/EJ200_10_CosmicStand20170307_CH2_NonMirr_HV70p82_Tcomp24p5C_20180114.root",fitRng,true,fitRngPed10)
 
 ### for EJ200 1X un-irr.
