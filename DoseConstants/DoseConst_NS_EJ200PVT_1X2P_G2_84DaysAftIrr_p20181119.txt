@@ -1,0 +1,14 @@
+Sample label                                                                    	       D	   sigD 	       R	   sigR 
+Sorted by value:
+EJ200PVT-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;   7 days aft. irr.)            	 4.59992	1.37117 	 0.92071	0.02136 
+EJ200PVT-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  56 days aft. irr.)            	 4.84378	1.40845 	 0.92455	0.01980 
+EJ200PVT-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;   3 days aft. irr.)            	 5.19403	1.69128 	 0.92945	0.02107 
+EJ200PVT-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  14 days aft. irr.)            	 5.19456	1.66013 	 0.92946	0.02064 
+EJ200PVT-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  84 days aft. irr.)            	 5.37070	1.91778 	 0.93169	0.02260 
+
+Sorted by name:
+EJ200PVT-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;   3 days aft. irr.)            	 5.19403	1.69128 	 0.92945	0.02107 
+EJ200PVT-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;   7 days aft. irr.)            	 4.59992	1.37117 	 0.92071	0.02136 
+EJ200PVT-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  14 days aft. irr.)            	 5.19456	1.66013 	 0.92946	0.02064 
+EJ200PVT-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  56 days aft. irr.)            	 4.84378	1.40845 	 0.92455	0.01980 
+EJ200PVT-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  84 days aft. irr.)            	 5.37070	1.91778 	 0.93169	0.02260 

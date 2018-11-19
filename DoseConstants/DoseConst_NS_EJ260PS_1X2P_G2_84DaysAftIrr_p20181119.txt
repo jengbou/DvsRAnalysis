@@ -1,0 +1,14 @@
+Sample label                                                                    	       D	   sigD 	       R	   sigR 
+Sorted by value:
+EJ260PS-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;   3 days aft. irr.)             	 4.19007	1.18233 	 0.91330	0.02185 
+EJ260PS-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;   7 days aft. irr.)             	 4.22350	1.20678 	 0.91396	0.02201 
+EJ260PS-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  14 days aft. irr.)             	 4.78991	1.54945 	 0.92373	0.02254 
+EJ260PS-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  56 days aft. irr.)             	 4.86817	1.57425 	 0.92491	0.02220 
+EJ260PS-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  84 days aft. irr.)             	 5.46899	1.96220 	 0.93288	0.02233 
+
+Sorted by name:
+EJ260PS-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;   3 days aft. irr.)             	 4.19007	1.18233 	 0.91330	0.02185 
+EJ260PS-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;   7 days aft. irr.)             	 4.22350	1.20678 	 0.91396	0.02201 
+EJ260PS-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  14 days aft. irr.)             	 4.78991	1.54945 	 0.92373	0.02254 
+EJ260PS-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  56 days aft. irr.)             	 4.86817	1.57425 	 0.92491	0.02220 
+EJ260PS-1X2P (0.38 Mrad@ 0.3 krad/hr@ 23#circC;  84 days aft. irr.)             	 5.46899	1.96220 	 0.93288	0.02233 
